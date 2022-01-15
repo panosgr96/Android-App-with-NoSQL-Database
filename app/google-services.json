@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "532429066831",
+    "firebase_url": "https://myproject-92ea2.firebaseio.com",
+    "project_id": "myproject-92ea2",
+    "storage_bucket": "myproject-92ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532429066831:android:0a9abba3497c7bb7",
+        "android_client_info": {
+          "package_name": "com.example.panagiotis.mytodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532429066831-740l99nvuruht0h5k5uq9t14ncijur7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9VfxkZ979N6fDrVPqc6knczzj2oje40w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
